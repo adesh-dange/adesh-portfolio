@@ -40,7 +40,7 @@ export default function Home() {
           transition={{ duration: 0.6 }}
           className="text-lg font-bold tracking-[-0.05em] text-[#741426]"
         >
-          AD.
+          AD
         </motion.a>
         
 
@@ -126,11 +126,12 @@ export default function Home() {
                 transition={{ duration: 0.8, delay: 0.35 }}
                 className="mt-10 flex flex-col gap-8 sm:flex-row sm:items-end"
               >
-                <p className="max-w-md text-base leading-7 text-[#686163]">
-                  Hi, I'm Adesh — a frontend developer creating modern,
-                  responsive, and interactive experiences with React and
-                  Next.js.
-                </p>
+              <p className="max-w-md text-base leading-7 text-[#686163]">
+  Hi, I'm Adesh Dange. I enjoy turning ideas into polished digital
+  experiences through clean code, thoughtful UI, and meaningful
+  interactions. I specialize in modern frontend development with React,
+  Next.js, JavaScript, and Tailwind CSS.
+</p> 
 
                 <a
                   href="#projects"
